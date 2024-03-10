@@ -1,0 +1,7 @@
+Category: 
+/home/yanvivie/Desktop/CSC207/mp5-AACNestedHW/img/clothing/tshirt.png, cloth
+/home/yanvivie/Desktop/CSC207/mp5-AACNestedHW/img/food/plate.png, food
+Category: cloth
+/home/yanvivie/Desktop/CSC207/mp5-AACNestedHW/img/clothing/sweater.png, sweater
+Category: food
+/home/yanvivie/Desktop/CSC207/mp5-AACNestedHW/img/food/icons8-apple-96.png, apple
